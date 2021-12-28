@@ -1,7 +1,4 @@
-package agh.ics.oop.Simulation;
-import agh.ics.oop.Animal;
-import agh.ics.oop.IWorldMap;
-import agh.ics.oop.Vector2d;
+package agh.ics.oop;
 import agh.ics.oop.gui.App;
 import javafx.scene.layout.GridPane;
 

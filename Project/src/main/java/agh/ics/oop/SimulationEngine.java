@@ -1,5 +1,4 @@
-package agh.ics.oop.Simulation;
-import agh.ics.oop.*;
+package agh.ics.oop;
 import agh.ics.oop.gui.App;
 import javafx.scene.layout.GridPane;
 

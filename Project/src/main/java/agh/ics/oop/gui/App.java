@@ -1,8 +1,8 @@
 package agh.ics.oop.gui;
 import agh.ics.oop.*;
-import agh.ics.oop.Simulation.AbstractSimulationEngine;
-import agh.ics.oop.Simulation.SimulationEngine;
-import agh.ics.oop.Simulation.SimulationEngineMagic;
+import agh.ics.oop.AbstractSimulationEngine;
+import agh.ics.oop.SimulationEngine;
+import agh.ics.oop.SimulationEngineMagic;
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.geometry.Rectangle2D;

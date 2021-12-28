@@ -1,5 +1,4 @@
 package agh.ics.oop;
-import agh.ics.oop.Simulation.AbstractSimulationEngine;
 import agh.ics.oop.gui.DataFile;
 import java.util.*;
 
